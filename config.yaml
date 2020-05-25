@@ -1,0 +1,14 @@
+baseURL       : "https://adityam.github.io/aruna-poems/"
+
+languageCode  : "en-us"
+title         : "Aruna Mahajan's Poems"
+theme         : coursepage
+
+pluralizelisttitles: fasle
+preserveTaxonomyNames: true
+
+enableGitInfo: true
+
+metaDataFormat: yaml
+publishDir    : docs
+
