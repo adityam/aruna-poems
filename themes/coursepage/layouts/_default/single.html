@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+
+{{ if .Title }}<div class="h1-title">{{ .Title }}</div>{{ end }}
+
+{{ .Content }}
+
+{{ partial "categories.html" . }}
+
+{{ partial "footer.html" . }}

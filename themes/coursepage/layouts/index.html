@@ -1,0 +1,12 @@
+{{ partial "header.html" .}}
+
+<ul>
+{{ range .Paginator.Pages }}     
+      <li>
+        {{ .Date.Format "2 January, 2006" }} : 
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+{{ end }}
+</ul>
+
+{{ partial "footer.html" . }}
