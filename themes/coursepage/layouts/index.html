@@ -1,12 +1,9 @@
 {{ partial "header.html" .}}
 
-<ul>
-{{ range .Paginator.Pages }}     
-      <li>
-        {{ .Date.Format "02 Jan 2006" }} : 
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
+{{ .Content }} <!-- Pulls from _index.html -->
+
+{{ range where $.Site.Sections "Section" "post" }}     
+    {{ partial "taxonomy-list" . }}
 {{ end }}
-</ul>
 
 {{ partial "footer.html" . }}
