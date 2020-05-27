@@ -1,6 +1,6 @@
 ---
 title     : "Nari Shakti"
-date  : 2020-05-25T05:47:17-04:00
+date  : 2019-03-04
 ---
 
 ```poem

@@ -220,4 +220,5 @@ th {
 .language-poem {
   font-family: 'Noto Sans Devanagri', sans-serif;
   line-height: 1.5em; /* 24px */
+  font-size: 120%;
 }
