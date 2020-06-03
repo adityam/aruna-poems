@@ -1,5 +1,3 @@
-@import url(//fonts.googleapis.com/earlyaccess/notosansdevanagari.css); 
-
 html {
     min-height: 100%; /* eliminates content-shift */
     margin-bottom: 1px; /* eliminates content-shift */
