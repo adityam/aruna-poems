@@ -1,7 +1,9 @@
 ---
 title: "The art of conversation"
-date: 2019-12-15
+date: 2019-09-04
 ---
+
+Conversation is an art,it can make or mar your relations. These days all are so busy chatting or doing What's App on mobile that the art of good conversation is loosing it's hold. Here I have tried to say a few words on how a good choice of words can help resolve many issues.
 
 ```poem
 बात से बात न निकली, तो क्या बात है,
