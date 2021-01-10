@@ -5,10 +5,6 @@
     <link>https://adityam.github.io/aruna-poems/tags/</link>
     <description>Recent content in Tags on Aruna Mahajan&#39;s Poems</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://adityam.github.io/aruna-poems/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://adityam.github.io/aruna-poems/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
