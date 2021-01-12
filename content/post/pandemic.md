@@ -20,8 +20,8 @@ They use knowledge to brighten their face.
 Run to achieve name, fame and heights, 
 Trample nature to take long flights.
 
-In the rat race they loose touch, 
-forget the glory of soul and sit on couch.
+In the rat race to achieve too much,
+they forget the glory of soul and lose touch,
 Strong viruses sprang to teach a lesson, 
 love and happiness is your mission.
 
