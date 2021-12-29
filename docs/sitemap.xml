@@ -1,293 +1,180 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://adityam.github.io/aruna-poems/</loc>
-    <lastmod>2021-01-10T13:59:57-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adityam.github.io/aruna-poems/post/choose-goodness/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://adityam.github.io/aruna-poems/post/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/blessing/</loc>
     <lastmod>2020-06-16T23:43:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adityam.github.io/aruna-poems/post/</loc>
-    <lastmod>2021-01-10T13:59:57-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/acceptance/</loc>
     <lastmod>2020-05-31T11:34:48-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A4%BE-%E0%A4%A4%E0%A4%B0%E0%A5%80%E0%A4%95%E0%A4%BE-%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A4%A8%E0%A4%BE-%E0%A4%B9%E0%A5%8B%E0%A4%97%E0%A4%BE/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/tribute-to-my-mother/</loc>
     <lastmod>2020-05-31T11:34:48-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%A4%E0%A4%BE%E0%A4%B2%E0%A4%BE%E0%A4%AC-%E0%A4%B8%E0%A4%BE-%E0%A4%AE%E0%A4%A8/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%AE%E0%A5%81%E0%A4%A1%E0%A4%BC%E0%A4%95%E0%A5%87-%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%A8%E0%A4%BE-%E0%A4%9B%E0%A5%8B%E0%A4%A1%E0%A4%BC-%E0%A4%A6%E0%A5%87%E0%A4%82/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/covid-19/</loc>
     <lastmod>2020-06-02T23:04:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/pandemic/</loc>
-    <lastmod>2021-01-10T13:59:57-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-01-12T18:33:47-05:00</lastmod>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/tiny-bird/</loc>
     <lastmod>2020-05-26T23:56:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/relationships/</loc>
     <lastmod>2020-06-02T23:04:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/tribute-to-our-soldiers/</loc>
     <lastmod>2020-06-02T23:04:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/lohri/</loc>
     <lastmod>2020-05-26T23:56:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/new-year-2020/</loc>
     <lastmod>2020-05-26T23:56:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%85%E0%A4%AA%E0%A4%A8%E0%A5%80-%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF-%E0%A4%AA%E0%A4%B9%E0%A4%9A%E0%A4%BE%E0%A4%A8%E0%A5%8B/</loc>
     <lastmod>2019-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%85%E0%A4%9C%E0%A4%AC-%E0%A4%B5%E0%A4%BF%E0%A4%A1%E0%A4%82%E0%A4%AC%E0%A4%A8%E0%A4%BE-%E0%A4%B9%E0%A5%88/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/thanksgiving/</loc>
     <lastmod>2020-06-02T23:04:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/chidren-s-day/</loc>
     <lastmod>2020-05-26T23:11:08-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/krishna/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/isro/</loc>
     <lastmod>2020-05-30T17:07:43-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/conversation/</loc>
     <lastmod>2020-06-02T23:04:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97-%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE-%E0%A4%B9%E0%A5%88/</loc>
     <lastmod>2019-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8/</loc>
     <lastmod>2019-06-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%AC%E0%A5%87%E0%A4%9F%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0/</loc>
     <lastmod>2019-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/fb-friends/</loc>
     <lastmod>2020-05-26T23:11:08-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/anniversary/</loc>
     <lastmod>2020-06-02T23:04:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/strom/</loc>
     <lastmod>2020-06-02T23:20:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%A8%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%80-%E0%A4%B8%E0%A5%80-%E0%A4%95%E0%A4%B2%E0%A5%80/</loc>
     <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/recca/</loc>
     <lastmod>2020-06-02T23:20:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/women-s-day/</loc>
     <lastmod>2020-05-25T13:28:10-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/nari-shakti/</loc>
     <lastmod>2020-05-26T23:11:08-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%80-%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/grandparents/</loc>
     <lastmod>2020-06-14T13:24:56-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%9C%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A4%97%E0%A5%80/</loc>
     <lastmod>2018-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%85%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%BE-%E0%A4%B2%E0%A4%97%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88/</loc>
     <lastmod>2018-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/all-the-best/</loc>
     <lastmod>2020-06-02T23:04:22-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/changing-times/</loc>
     <lastmod>2020-06-02T23:20:57-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%A4/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%AC%E0%A5%87%E0%A4%9F%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%AC%E0%A5%87%E0%A4%9F%E0%A5%80/</loc>
     <lastmod>2016-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%AD%E0%A4%97%E0%A4%B5%E0%A4%BE%E0%A4%A8-%E0%A4%94%E0%A4%B0-%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A4%BE%E0%A4%A8/</loc>
     <lastmod>2016-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%9C%E0%A4%BC%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A4%97%E0%A5%80/</loc>
     <lastmod>2016-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A4%A4%E0%A5%87-%E0%A4%9C%E0%A4%BC%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%80-%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A4%A4%E0%A5%80-%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%B0/</loc>
     <lastmod>2016-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%9C%E0%A5%80%E0%A4%B5%E0%A4%A8-%E0%A4%95%E0%A5%8B-%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BE-%E0%A4%B8%E0%A5%80%E0%A4%96%E0%A5%8B/</loc>
     <lastmod>2016-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%AE%E0%A5%81%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A4%95-%E0%A4%B9%E0%A5%8B-%E0%A4%AF%E0%A4%B9-%E0%A4%B8%E0%A4%AB%E0%A4%B0/</loc>
     <lastmod>2016-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%AF%E0%A4%BE%E0%A4%A6%E0%A5%87%E0%A4%82/</loc>
     <lastmod>2015-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/post/%E0%A4%95%E0%A4%B2-%E0%A4%B9%E0%A5%8B-%E0%A4%A8-%E0%A4%B9%E0%A5%8B/</loc>
     <lastmod>2015-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/notes/shivoham/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/notes/be-surrendered/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/notes/himachal-history/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/notes/maa-kaali/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/notes/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/notes/shimla-church/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/notes/ganesh-aarti/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/notes/durga-saptshahi/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://adityam.github.io/aruna-poems/notes/hanuman-chaleesa/</loc>
     <lastmod>2020-06-03T00:09:59-04:00</lastmod>
   </url>
-  
 </urlset>
