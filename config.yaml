@@ -4,13 +4,10 @@ languageCode  : "en-us"
 title         : "Aruna Mahajan's Poems"
 theme         : coursepage
 
-pluralizelisttitles: fasle
+  # pluralizelisttitles: fasle
 preserveTaxonomyNames: true
 
 enableGitInfo: true
-
-markup:
-  defaultMarkdownHandler: "blackfriday"
 
 metaDataFormat: yaml
 publishDir    : docs
